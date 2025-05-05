@@ -4,7 +4,8 @@
 **Coordinates:** -19.6547091, -43.9145878
 **Address:** Av. Das Árvores, 496, Vila Jardim Pres, Lagoa Santa, 33239-876
 **Details:**
-- **CBTC:** LagoaBitcoin
+
+**PBTC:** ![PBTC](https://github.com/UAIBIT/PBTC/blob/main/TocaSurubim.jpg)- **CBTC:** LagoaBitcoin
 - **OBTC:** UAIBIT
 - **amenity:** restaurant
 - **check_date:** 2025-04-18
@@ -36,7 +37,6 @@
 - **survey:date:** 2025-04-08
 - **takeaway:** yes
 - **website:** https://www.instagram.com/tocadosurubimoficia
-**PBTC:** ![PBTC](https://github.com/UAIBIT/PBTC/blob/main/TocaSurubim.jpg)
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12740118659)
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12740118659)
 
@@ -46,7 +46,8 @@
 **Coordinates:** -19.6290142, -43.8899903
 **Address:** Rua Cecília Dolabela Portela, 175, Centro, Lagoa Santa, 3440000
 **Details:**
-- **CBTC:** LagoaBitcoin
+
+**PBTC:** ![PBTC](https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/dombiondini.webp)- **CBTC:** LagoaBitcoin
 - **OBTC:** UAIBIT
 - **amenity:** restaurant
 - **cuisine:** italian;pizza;pasta
@@ -58,7 +59,6 @@
 - **phone:** +55 31 98393-1534
 - **survey:date:** 2025-04-11
 - **website:** https://www.instagram.com/donbiondini/
-**PBTC:** ![PBTC](https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/dombiondini.webp)
 **BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12748053114)
 **OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12748053114)
 
