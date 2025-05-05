@@ -1,8 +1,7 @@
-name: Mount OSM OBTC
+name: Mount OSM CBTC
 
 on:
- push:
-   branches: ["main"]
+ workflow_dispatch:
 
 jobs:
   genInfo:
