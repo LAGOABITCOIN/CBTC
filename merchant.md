@@ -37,6 +37,7 @@
 - **takeaway:** yes
 - **website:** https://www.instagram.com/tocadosurubimoficia
 
+**PBTC:** ![PBTC](https://github.com/UAIBIT/PBTC/blob/main/TocaSurubim.jpg)
 
 ## Ristorante Don Biondini
 **Type:** node
