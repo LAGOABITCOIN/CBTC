@@ -37,8 +37,8 @@
 - **survey:date:** 2025-04-08
 - **takeaway:** yes
 - **website:** https://www.instagram.com/tocadosurubimoficia
-**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12740118659)
-**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12740118659)
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12740118659) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12740118659) 
 
 ## Ristorante Don Biondini
 **Type:** node
@@ -59,6 +59,6 @@
 - **phone:** +55 31 98393-1534
 - **survey:date:** 2025-04-11
 - **website:** https://www.instagram.com/donbiondini/
-**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12748053114)
-**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12748053114)
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12748053114) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12748053114) 
 
