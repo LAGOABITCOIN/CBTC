@@ -1,0 +1,10 @@
+name: Mount OSM OBTC
+
+on:
+ push:
+   branches: ["main"]
+
+jobs:
+  genInfo:
+    uses: UAIBIT/CI/.github/workflows/getOSM.yml@main
+    secrets: inherit
